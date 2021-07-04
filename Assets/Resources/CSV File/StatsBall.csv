@@ -1,0 +1,5 @@
+Type Ball,Tag Target,Health Start,Health Per Level,Resistance Start,Resistance Per Level,Move Speed Start,Move Speed Per Level,Is Normalized Velocity,Thrust Force Start,Thrust Force Per Level,Mana Start,Mana Per Level,Score When Die
+Player,Enemy,4500,100,0.05,0.01,10,0.005,TRUE,200,10,2500,10,0
+Earth,Player,3000,300,0.15,0.015,5,0.2,TRUE,150,15,2500,10,100
+Fire,Player,1300,150,0,0,6,0.25,TRUE,200,30,2500,10,150
+Water,Player,1000,100,0,0,4,0.025,FALSE,130,5,2500,10,180
